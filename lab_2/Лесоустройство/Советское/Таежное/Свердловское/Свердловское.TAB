@@ -1,0 +1,46 @@
+!table
+!version 450
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 33
+    ID Char (4) ;
+    Kv Float ;
+    Sknr Float ;
+    Pl Float ;
+    Vmr Char (6) ;
+    Bon Char (2) ;
+    Mtip Char (5) ;
+    Kmet Char (10) ;
+    Ku Float ;
+    Kb Float ;
+    Ke Char (6) ;
+    Bu Float ;
+    Bb Float ;
+    Be Char (6) ;
+    Hu Float ;
+    Hb Float ;
+    He Char (6) ;
+    Gu Float ;
+    Gb Float ;
+    Ge Char (6) ;
+    Mu Float ;
+    Mb Float ;
+    Me Char (6) ;
+    Su Float ;
+    Sb Float ;
+    Se Char (6) ;
+    Fu Float ;
+    Fb Float ;
+    Fe Char (6) ;
+    Cu Float ;
+    Cb Float ;
+    Ce Char (6) ;
+    Dost Integer ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "9b086ae5-a66b-4aca-99bf-d06e7b230cf3"
+"\MapInfo\ParentTableID" = "2baebbca-3360-4548-ac7f-38d4be922ac4"
+end_metadata
